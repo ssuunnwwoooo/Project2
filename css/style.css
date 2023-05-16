@@ -1,0 +1,17 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: rgb(255, 0, 128);
+}
+
+a:hover {
+    text-decoration: none;
+}
